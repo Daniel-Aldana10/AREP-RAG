@@ -1,0 +1,17 @@
+# --- Dependencias principales ---
+langchain
+langchain-core
+langchain-openai
+langchain-pinecone
+langchain-text-splitters
+pinecone
+python-dotenv
+
+
+# --- Dependencias de soporte ---
+openai
+tiktoken
+
+# --- (Opcional pero recomendado) ---
+pydantic
+requests

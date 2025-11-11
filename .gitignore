@@ -1,0 +1,4 @@
+.venv/
+rag_env/
+.env
+.idea/
