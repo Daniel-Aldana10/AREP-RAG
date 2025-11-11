@@ -320,3 +320,6 @@ AREP-RAG/
 - Pinecone (`pinecone`, `langchain-pinecone`): Base de datos vectorial para almacenamiento y búsqueda semántica
 - Python-dotenv (`python-dotenv`): Gestión de variables de entorno
 
+## Autor
+
+Daniel Aldana — [GitHub](https://github.com/Daniel-Aldana10)
